@@ -1,6 +1,6 @@
 # Concept-Vector
 
-The following is the prompt used to initialize work on this project (see prompts/intro.md), and it serves as a good summary.
+The following is the prompt used to initialize work on this project (see [prompts/intro.md](https://github.com/truehumanexe/concept_vector/blob/main/prompts/intro.md)), and it serves as a good summary of the project as well as a good source for LLM evaluated critical feedback for the curious.
 
 **BEGIN**
 
@@ -20,9 +20,9 @@ This project has the following objectives:
 
 ## Demo
 
-For a demonstration of semantic searching of concept vectors see notebooks/scratch.ipynb
+For a demonstration of semantic searching of concept vectors see [notebooks/scratch.ipynb](https://github.com/truehumanexe/concept_vector/blob/main/notebooks/scratch.ipynb)
 
-For a human readable list of concepts, see docs/concept_descriptions.md
+For a human readable list of concepts, see [docs/concept_descriptions.md](https://github.com/truehumanexe/concept_vector/blob/main/docs/concept_descriptions.md)
 
 
 ## Design
@@ -43,7 +43,7 @@ For a human readable list of concepts, see docs/concept_descriptions.md
 
 ## Misc.
 
-For future work direction and speculative use cases, see /notes
+For future work direction and speculative use cases, see [/notes](https://github.com/truehumanexe/concept_vector/tree/main/notes)
 
 
 
