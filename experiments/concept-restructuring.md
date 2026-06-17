@@ -1,0 +1,4 @@
+- investiagte [NSM](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage) and compare to project work
+- include the concept of negation explictily
+- look into manual modifications, for instance punctuations [ ",", ".", "|", "?" ] all have grammatical and cognitive links that are worth evaluating and possibly modifying explictily
+- consider concepts of possession, negation, and equivalence
